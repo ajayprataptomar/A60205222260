@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# dotenv files
+.env
+
+# React build
+frontend/build/
+
+# OS-specific
+.DS_Store
